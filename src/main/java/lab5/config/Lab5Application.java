@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Lab5Application {
 
     public static void main(String[] args) {
+    	System.out.println("git é melhor que svn");
         SpringApplication.run(Lab5Application.class, args);
     }
 }
